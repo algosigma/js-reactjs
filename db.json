@@ -14,7 +14,7 @@
     },
     {
       "id": 3,
-      "judul": "Proyek Website Super WOW dengan PHP dan jQuery",
+      "judul": "Proyek Website Super WOW dengan jQuery",
       "penulis": "Lukmanul Hakim",
       "image": "http://www.tokolokomedia.com/cover/cover3.jpg"
     },
@@ -44,13 +44,13 @@
     },
     {
       "id": 8,
-      "judul": "Menguasai Codeigniter: Kasus Aplikasi Perpustakaan",
+      "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
       "penulis": "Awan Pribadi Basuki",
       "image": "http://www.tokolokomedia.com/cover/cover8.jpg"
     },
     {
       "id": 9,
-      "judul": "Proyek Membangun Web dengan Yii Framework",
+      "judul": "Membangun Web dengan Yii Framework",
       "penulis": "Sharive",
       "image": "http://www.tokolokomedia.com/cover/cover9.jpg"
     },
