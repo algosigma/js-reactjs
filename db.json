@@ -10,54 +10,63 @@
       "id": 2,
       "judul": "Membuat Aplikasi GPS Ala GO-JEK",
       "penulis": "Ronald Rusli",
+      "harga": "68.000",
       "image": "http://www.tokolokomedia.com/cover/cover2.jpg"
     },
     {
       "id": 3,
-      "judul": "Website Super WOW dengan jQuery",
+      "judul": "Website Super WOW dengan PHP & jQuery",
       "penulis": "Lukmanul Hakim",
+      "harga": "57.800",
       "image": "http://www.tokolokomedia.com/cover/cover3.jpg"
     },
     {
       "id": 4,
       "judul": "Trik Mudah Menguasai OOP dengan PHP",
       "penulis": "Akhmad Dharma",
+      "harga": "50.000",
       "image": "http://www.tokolokomedia.com/cover/cover4.jpg"
     },
     {
       "id": 5,
       "judul": "Jalan Pintas Menjadi Master PHP",
       "penulis": "Lukmanul Hakim",
+      "harga": "43.800",
       "image": "http://www.tokolokomedia.com/cover/cover5.jpg"
     },
     {
       "id": 6,
       "judul": "Rahasia Inti Master PHP dan MySQLi",
       "penulis": "Lukmanul Hakim",
+      "harga": "75.000",
       "image": "http://www.tokolokomedia.com/cover/cover6.jpg"
     },
     {
       "id": 7,
       "judul": "Konsep & Implementasi Pemrograman Laravel 5",
       "penulis": "Awan Pribadi Basuki",
+      "harga": "75.000",
       "image": "http://www.tokolokomedia.com/cover/cover7.jpg"
     },
     {
       "id": 8,
       "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
       "penulis": "Awan Pribadi Basuki",
+      "harga": "108.000",
       "image": "http://www.tokolokomedia.com/cover/cover8.jpg"
     },
     {
       "id": 9,
-      "judul": "Membangun Web dengan Yii Framework",
+      "judul": "Membangun Website dengan Yii Framework",
       "penulis": "Sharive",
+      "harga": "68.800",
       "image": "http://www.tokolokomedia.com/cover/cover9.jpg"
     },
     {
       "id": 10,
       "judul": "Panduan Praktis Menguasai Vue.js",
       "penulis": "Lutfi Gani",
+      "harga": "65.000",
       "image": "http://www.tokolokomedia.com/cover/cover10.jpg"
     }
   ]
