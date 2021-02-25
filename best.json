@@ -10,27 +10,27 @@
     },
     {
       "id": 2,
-      "judul": "Jalan Pintas Menjadi Master PHP",
+      "judul": "Jalan Pintas Menjadi Master ReactJS",
       "penulis": "Lukmanul Hakim",
-      "harga": "43.800",
-      "image": "http://www.tokolokomedia.com/cover/cover5.jpg",
-      "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
+      "harga": "90.000",
+      "image": "http://www.tokolokomedia.com/cover/cover1.jpg",
+      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
     },
     {
       "id": 3,
-      "judul": "Membuat Aplikasi GPS Ala GO-JEK",
-      "penulis": "Ronald Rusli",
-      "harga": "68.000",
-      "image": "http://www.tokolokomedia.com/cover/cover2.jpg",
-      "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime."
-    },
-    {
-      "id": 4,
       "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
       "penulis": "Awan Pribadi Basuki",
       "harga": "108.000",
       "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
       "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
+    },
+    {
+      "id": 4,
+      "judul": "Membuat Aplikasi GPS Ala GO-JEK",
+      "penulis": "Ronald Rusli",
+      "harga": "68.000",
+      "image": "http://www.tokolokomedia.com/cover/cover2.jpg",
+      "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime."
     },
     {
       "id": 5,
