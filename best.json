@@ -18,11 +18,11 @@
     },
     {
       "id": 3,
-      "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
-      "penulis": "Awan Pribadi",
-      "harga": "108.000",
-      "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
-      "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
+      "judul": "Website Super WOW dengan PHP & jQuery",
+      "penulis": "Lukmanul Hakim",
+      "harga": "57.800",
+      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
+      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
     },
     {
       "id": 4,
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "judul": "Website Super WOW dengan PHP & jQuery",
-      "penulis": "Lukmanul Hakim",
-      "harga": "57.800",
-      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
-      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
+      "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
+      "penulis": "Awan Pribadi",
+      "harga": "108.000",
+      "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
+      "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
     },
     {
       "id": 6,
