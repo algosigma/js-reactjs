@@ -2,14 +2,6 @@
   "bukulokomedia": [
     {
       "id": 1,
-      "judul": "Jalan Pintas Menjadi Master ReactJS",
-      "penulis": "Lukmanul Hakim",
-      "harga": "90.000",
-      "image": "http://www.tokolokomedia.com/cover/cover1.jpg",
-      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
-    },
-    {
-      "id": 2,
       "judul": "Membuat Aplikasi GPS Ala GO-JEK",
       "penulis": "Ronald Rusli",
       "harga": "68.000",
@@ -17,12 +9,20 @@
       "sinopsis": "Tidak bisa dipungkiri, GO-JEK menjadi begitu fenomenal dengan layanan Ojek Online yang penuh kreasi dan inovasi. Dalam buku ini, akan dibahas membuat layanan Ojek Online menggunakan PHP dan memanfaatkan GPS (GMAP) secara Realtime."
     },
     {
-      "id": 3,
-      "judul": "Website Super WOW dengan PHP & jQuery",
+      "id": 2,
+      "judul": "Jalan Pintas Menjadi Master PHP",
       "penulis": "Lukmanul Hakim",
-      "harga": "57.800",
-      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
-      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
+      "harga": "43.800",
+      "image": "http://www.tokolokomedia.com/cover/cover5.jpg",
+      "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
+    },
+    {
+      "id": 3,
+      "judul": "Panduan Praktis Menguasai Vue.js",
+      "penulis": "Lutfi Gani",
+      "harga": "65.000",
+      "image": "http://www.tokolokomedia.com/cover/cover10.jpg",
+      "sinopsis": "Vue.js dibangun dengan pendekatan Approachable yang fokus pada kesederhanaan dan kerapian struktur codingnya - cukup pengetahuan dasar HTML, CSS, dan Javascript - memudahkan pengguna mempelajarinya dengan cepat."
     },
     {
       "id": 4,
@@ -34,11 +34,11 @@
     },
     {
       "id": 5,
-      "judul": "Jalan Pintas Menjadi Master PHP",
+      "judul": "Website Super WOW dengan PHP & jQuery",
       "penulis": "Lukmanul Hakim",
-      "harga": "43.800",
-      "image": "http://www.tokolokomedia.com/cover/cover5.jpg",
-      "sinopsis": "Buku ini membahas bagaimana cara kerja para master PHP di perusahaan dalam membangun proyek website secara profesional. Dikupas secara step by step mulai tahap Planning, Designing, Coding, Testing, Promotion, sampai  Maintenance."
+      "harga": "57.800",
+      "image": "http://www.tokolokomedia.com/cover/cover3.jpg",
+      "sinopsis": "Jadi gua harus bilang WOW! gitu? Ya iyalah, karena didalam buku ini dibahas 2 proyek Website sekaligus yang sangat spesial. Tidak hanya itu, Halaman Administratornya juga nggak kalah canggih lho, dengan tampilan keren khas jQuery disertai efek dan interaktifitas tingkat tinggi menjadikannya layak disebut Website Super WOW!"
     },
     {
       "id": 6,
@@ -74,11 +74,11 @@
     },
     {
       "id": 10,
-      "judul": "Panduan Praktis Menguasai Vue.js",
-      "penulis": "Lutfi Gani",
-      "harga": "65.000",
-      "image": "http://www.tokolokomedia.com/cover/cover10.jpg",
-      "sinopsis": "Vue.js dibangun dengan pendekatan Approachable yang fokus pada kesederhanaan dan kerapian struktur codingnya - cukup pengetahuan dasar HTML, CSS, dan Javascript - memudahkan pengguna mempelajarinya dengan cepat."
+      "judul": "Jalan Pintas Menjadi Master ReactJS",
+      "penulis": "Lukmanul Hakim",
+      "harga": "90.000",
+      "image": "http://www.tokolokomedia.com/cover/cover1.jpg",
+      "sinopsis": "Pengen tau caranya bikin Aplikasi Zaman Now? Anda harus kenal dengan ReactJS, sebuah library Javascript untuk membangun User Interface yang dibuat oleh Facebook. Aplikasi yang dibuat ReacJS terlihat super cepat, stabil, responsif, interaktif dan cool."
     },
     {
       "id": 11,
