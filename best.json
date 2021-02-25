@@ -19,7 +19,7 @@
     {
       "id": 3,
       "judul": "Menguasai Codeigniter: Aplikasi Perpustakaan",
-      "penulis": "Awan Pribadi Basuki",
+      "penulis": "Awan Pribadi",
       "harga": "108.000",
       "image": "http://www.tokolokomedia.com/cover/cover8.jpg",
       "sinopsis": "Buku ini dibagi menjadi dua bagian. Bagian pertama membahas berbagai hal dasar untuk menguasai Codeigniter 3 (Instalasi, Routing, Model, View, Controller, Template Parser, Library, Helper, Database, Form, Session, Validation, Pagination, dsb). Bagian kedua membahas penerapan Codeigniter."
